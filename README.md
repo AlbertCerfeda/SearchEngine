@@ -10,7 +10,8 @@ Developed as part of the group project for *Information Retrieval SA
 # Introduction
 
 **Banana** aims to be a search engine to discover and fund your
-favourite content creators.\
+favourite content creators.
+
 We put efforts into making our system sustainable and self-improving,
 without requiring us to start processes or intervene manually. We faced
 quite a lot of challenges, mostly regarding Solr and
